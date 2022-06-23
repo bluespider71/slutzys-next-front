@@ -1,5 +1,7 @@
 This is a base probject with next + antd
 
+This site url is https://slutzys-front.vercel.app/
+
 ## Getting Started
 
 First, run the development server:
