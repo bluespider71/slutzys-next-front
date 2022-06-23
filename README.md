@@ -1,6 +1,5 @@
 This is a base probject with next + antd
 
-This site url is https://slutzys-front.vercel.app/
 
 ## Getting Started
 
@@ -12,7 +11,7 @@ npm run dev
 yarn dev
 ```
 
-Open [https://slutzys-front.vercel.app/](https://slutzys-front.vercel.app/) with your browser to see the result.
+Open [https://slutzys.co/](https://slutzys.co) with your browser to see the result.
 
 You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
 
